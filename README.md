@@ -2,17 +2,8 @@
  <img align="center" width="200" src='https://github.com/joaquinrodal/joaquinrodal/blob/master/logo_1024x1024.png' alt='Pablo' />
   <h3 align="center">¡Hola 👋! JOAQUIN RODAL CHORRO 💻</h3>
 </p>
-<p align="center"><strong>PROGRAMADOR</strong> y <strong>Facilitador de conocimiento</strong></p>
-<p align="center">
-<a href='https://img.shields.io/twitter/follow/pablomarino8' target='_blank'>
-  <img src='https://img.shields.io/twitter/follow/pablomarino8?style=social' alt='' />
-</a>
-<a href='https://img.shields.io/youtube/channel/subscribers/UCyM-u7zHJDcUt4sE3wAa-yg' target='_blank'>
-  <img  src='https://img.shields.io/youtube/channel/subscribers/UCyM-u7zHJDcUt4sE3wAa-yg?style=social' alt='' />
-</a>
+<p align="center"><strong>PROGRAMADOR</strong>
 
- 
-</p>
 <p align="center">
 
  <a href='https://github.com/pmarino2013' target='_blank' style='text-decoration:none' >
@@ -33,21 +24,16 @@
 </p>
 
 ### Tecnologías
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
- 
- ### Herramientas
- ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
  ### Sistema operativo actual
 <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> 
 
-![](https://img.shields.io/badge/Job-RollingCodeSchool-blue) ![](https://img.shields.io/badge/Learning-NextJS-blue) ![](https://img.shields.io/badge/Contact-pmarino2013@gmail.com-orange)
 
-⚡ Dato curioso: Fundé la comunidad de Facebook **Developers Tucumanos** 
 
 
 ### Videos destacados de Youtube
-<a href='https://youtu.be/HDJL7kW2uVQ' target='_blank' style='margin-right:4px'>
+<a href='[https://youtu.be/HDJL7kW2uVQ](https://www.youtube.com/watch?v=XKM0KJMfLYk&t=7s)' target='_blank' style='margin-right:4px'>
   <img width='30%' src='http://drive.google.com/uc?export=view&id=1tO60oZzWsBouaMqrGxCB7MDxWhiH1oXw' alt='¡useReducer!' />
 </a>
 <a href='https://youtu.be/wkaLjBuTgQ4' target='_blank'  style='margin-right:4px'>
