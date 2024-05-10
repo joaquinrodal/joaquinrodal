@@ -1,5 +1,5 @@
 <p align="center" width="300">
- <img align="center" width="200" src='https://github.com/joaquinrodal/joaquinrodal/blob/master/logo_1024x1024.png' alt='Pablo' />
+ <img align="center" width="200" src='https://github.com/joaquinrodal/joaquinrodal/blob/master/logo_1024x1024.png' alt='JOAQUIN' />
   <h3 align="center">¡Hola 👋! JOAQUIN RODAL CHORRO 💻</h3>
 </p>
 <p align="center"><strong>PROGRAMADOR</strong>
