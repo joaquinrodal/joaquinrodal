@@ -33,8 +33,8 @@
 
 
 ### Videos destacados de Youtube
-<a href='[https://youtu.be/HDJL7kW2uVQ](https://www.youtube.com/watch?v=XKM0KJMfLYk&t=7s)' target='_blank' style='margin-right:4px'>
-  <img width='30%' src='http://drive.google.com/uc?export=view&id=1tO60oZzWsBouaMqrGxCB7MDxWhiH1oXw' alt='¡useReducer!' />
+<a href='https://www.youtube.com/watch?v=XKM0KJMfLYk&t=7s' target='_blank' style='margin-right:4px'>
+  <img width='30%' src='https://github.com/joaquinrodal/joaquinrodal/blob/master/PORTADA1.png' alt='¡useReducer!' />
 </a>
 <a href='https://youtu.be/wkaLjBuTgQ4' target='_blank'  style='margin-right:4px'>
   <img width='30%' src='http://drive.google.com/uc?export=view&id=116P117jM4K1ovha-H7UDUJHdgzsAarGV' alt='¡modulos de javascript!' />
