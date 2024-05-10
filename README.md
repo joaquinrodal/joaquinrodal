@@ -1,8 +1,8 @@
 <p align="center" width="300">
- <img align="center" width="200" src='http://drive.google.com/uc?export=view&id=1_RhoHTtH5d15RbSDrfYOszG4ViKb90_b' alt='Pablo' />
-  <h3 align="center">¡Hola 👋! Soy Pablo Marino 💻</h3>
+ <img align="center" width="200" src='https://github.com/joaquinrodal/joaquinrodal/blob/master/logo_1024x1024.png' alt='Pablo' />
+  <h3 align="center">¡Hola 👋! JOAQUIN RODAL CHORRO 💻</h3>
 </p>
-<p align="center"><strong>Desarrollador JavaScript Full Stack</strong> y <strong>Facilitador de conocimiento</strong></p>
+<p align="center"><strong>PROGRAMADOR</strong> y <strong>Facilitador de conocimiento</strong></p>
 <p align="center">
 <a href='https://img.shields.io/twitter/follow/pablomarino8' target='_blank'>
   <img src='https://img.shields.io/twitter/follow/pablomarino8?style=social' alt='' />
