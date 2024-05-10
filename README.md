@@ -2,8 +2,15 @@
  <img align="center" width="200" src='https://github.com/joaquinrodal/joaquinrodal/blob/master/logo_1024x1024.png' alt='JOAQUIN' />
   <h3 align="center">¡Hola 👋! JOAQUIN RODAL CHORRO 💻</h3>
 </p>
-<p align="center"><strong>PROGRAMADOR</strong>
-
+<p align="center">
+ <strong>PROGRAMADOR</strong>
+ </p>
+ <p align="center">
+ <h2>664656447</h2>
+  </p>
+  <p align="center">
+<h6>informatico.joaquin@gmail.com</h6>
+</p>
 
 ### Tecnologías
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
