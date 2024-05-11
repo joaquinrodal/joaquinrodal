@@ -6,10 +6,10 @@
  <strong>PROGRAMADOR</strong>
  </p>
  <p align="center">
- <h2>664656447</h2>
+ <span>664656447</span>
   </p>
   <p align="center">
-<h6>informatico.joaquin@gmail.com</h6>
+<span>informatico.joaquin@gmail.com</span>
 </p>
 
 ### Tecnologías
