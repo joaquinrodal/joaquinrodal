@@ -21,6 +21,10 @@
  ### Sistema operativo actual
 <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> 
 
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,redis)](https://skillicons.dev)
+<br/><br/>
+
 
 
 
